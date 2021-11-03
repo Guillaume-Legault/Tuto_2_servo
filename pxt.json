@@ -1,11 +1,12 @@
 {
-    "name": "servo",
+    "name": "Tuto 2 servo",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "servo": "*"
+        "servo": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
     },
     "files": [
         "main.blocks",
